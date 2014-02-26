@@ -1,3 +1,8 @@
+/*
+1. standard input : function 'read()'
+2. copy : variable 'n'
+3. standard output : function 'write()'
+*/
 #include "apue.h"
 
 #define BUFFSIZE 4096
